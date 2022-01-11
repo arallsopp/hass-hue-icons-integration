@@ -1,0 +1,9 @@
+{
+  "title": "hass-hue-icons-integration",
+  "config": {
+    "abort": {
+      "single_instance_allowed": "Only a single configuration of the Hass Hue Icons Integration is allowed."
+    },
+    "step": {}
+  }
+}

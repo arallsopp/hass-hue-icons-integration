@@ -1,0 +1,12 @@
+{
+  "domain": "hass-hue-icons-integration",
+  "name": "hass-hue-icons-integration",
+  "documentation": "https://github.com/arallsopp/hass-hue-icons-integration",
+  "issue_tracker": "https://github.com/arallsopp/hass-hue-icons-integration/issues",
+  "dependencies": ["frontend", "http"],
+  "codeowners": ["@arallsopp"],
+  "requirements": [],
+  "config_flow": true,
+  "version": "1.0.0",
+  "iot_class": "local_polling"
+}
