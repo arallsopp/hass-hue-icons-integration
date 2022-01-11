@@ -25,7 +25,7 @@ This is the recommended way to install hass-hue-icons as an integration. Hass-hu
 - Type `hass-hue-icons-integration` into the search bar and click the row returned.
 - Click `Install this repository in HACS` from the resulting dialog. 
 - Restart Home Assistant
-- Click this: [![Open your Home Assistant instance and start setting up a new integration.](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=hasshueicons)  
+- Click this: [![Open your Home Assistant instance and start setting up a new integration.](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=hass-hue-icons-integration)  
     - OR: Go to your integrations configuration, click Add Integration and find `hass-hue-icons-integration`
 
 
